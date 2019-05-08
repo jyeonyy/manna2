@@ -1,8 +1,7 @@
 MANNA2
 ===========
-기존 manna에서 캡스톤 디자인경진대회에 나가기 위해 더 세부적인 개발을 했음
-https://github.com/manna2/manna2
-여기가 repository
+- 기존 manna에서 캡스톤 디자인경진대회에 나가기 위해 더 세부적인 개발을 했음
+- https://github.com/manna2/manna2 여기가 repository
 
 ## 기존 manna와 다른 기능
 - 보안 기능 추가
@@ -54,4 +53,4 @@ https://github.com/manna2/manna2
 ![Alt text](./calendar.png "Optional title")
 
 4. 팀원들과의 스케줄 통합한 화면
-![Alt text](./integrate.png "Optional title")
+![Alt text](./intergrate.png "Optional title")
